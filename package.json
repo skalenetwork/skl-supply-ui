@@ -2,6 +2,7 @@
   "name": "skale-supply-dashboard",
   "private": true,
   "version": "0.0.0",
+  "author": "Sawyer Cutler <sawyer@dirtroad.dev>",
   "type": "module",
   "scripts": {
     "dev": "vite",
